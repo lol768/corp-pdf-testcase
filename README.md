@@ -1,5 +1,5 @@
 # crbug952834
-MRE for Chrome bug 952834
+MRE for Chrome bug [952834](https://bugs.chromium.org/p/chromium/issues/detail?id=952834)
 
 To run, use `go run app.go` and visit http://localhost:8080/
 
