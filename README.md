@@ -7,3 +7,12 @@ Click on either link and try to save the resource. Right click from the main pag
 
 Version 73.0.3683.103 (Official Build) (64-bit)
 
+# crbug1074261
+
+MRE for Chrome bug [1074261](https://bugs.chromium.org/p/chromium/issues/detail?id=1074261)
+
+To run, use `go run app.go` and visit http://localhost:8080/main.pdf
+
+Observe that only the first page is rendered and the other pages appear as discs which do not load.
+
+Version 81.0.4044.122 (Official Build) snap (64-bit)
