@@ -24,3 +24,5 @@ MRE for Firefox bug [1638323](https://bugzilla.mozilla.org/show_bug.cgi?id=16383
 To run, use `go run app.go` and visit http://localhost:8080/main.pdf
 
 Open the PDF and try to save the resource by pressing Ctrl+S or using file -> save page as.
+
+Note that the magpie downloads correctly in Firefox.
